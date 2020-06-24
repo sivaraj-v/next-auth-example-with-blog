@@ -7,8 +7,8 @@ const options = {
   // configure one or more authentication providers
   providers: [
     Providers.Google({
-      clientId: "XXX",
-      clientSecret: 'XXX'
+      clientId: "1074229121315-1i3bbtphu7sfqvphf8cadmfubttubci9.apps.googleusercontent.com",
+      clientSecret: 'oifwzE1WSIG_OEIelgXuI5td'
     }),
   ],
   pages: {
